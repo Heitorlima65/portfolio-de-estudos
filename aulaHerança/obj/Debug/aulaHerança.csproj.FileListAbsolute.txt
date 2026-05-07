@@ -1,0 +1,7 @@
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\bin\Debug\aulaHerança.exe.config
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\bin\Debug\aulaHerança.exe
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\bin\Debug\aulaHerança.pdb
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\obj\Debug\aulaHerança.csproj.AssemblyReference.cache
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\obj\Debug\aulaHerança.csproj.CoreCompileInputs.cache
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\obj\Debug\aulaHerança.exe
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\atividades\aulaHerança\obj\Debug\aulaHerança.pdb
