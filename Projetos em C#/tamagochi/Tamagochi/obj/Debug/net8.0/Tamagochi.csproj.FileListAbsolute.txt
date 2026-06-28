@@ -1,0 +1,112 @@
+E:\2º Ano\DS\Viviani\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+E:\2º Ano\DS\Viviani\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+E:\2º Ano\DS\Viviani\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+E:\2º Ano\DS\Viviani\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+E:\2º Ano\DS\Viviani\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+C:\Users\Heitor\OneDrive\Documentos\Tamagochi-1\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+D:\Users\Miguel Martins\Documents\Tamagochi-1\Tamagochi-1\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+E:\2º Ano\DS\Viviani\Tamagochi-1\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+C:\Users\Heitor\Downloads\Tamagochi\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+D:\Users\Miguel Martins\Documents\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+D:\Users\Miguel Martins\Documents\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+D:\Users\Miguel Martins\Documents\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+D:\Users\Miguel Martins\Documents\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+C:\Users\Heitor\Downloads\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\2ºbimestre\Programação orientada a objetos\C#\Tamagochi (1)\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
