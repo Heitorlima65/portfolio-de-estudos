@@ -1,0 +1,28 @@
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe.config
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\bin\Debug\exercicioDia12do03.pdb
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.AssemblyReference.cache
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.CoreCompileInputs.cache
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\obj\Debug\exercicioDia12do03.exe
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\exercicioDia12do03\exercicioDia12do03\obj\Debug\exercicioDia12do03.pdb
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe.config
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.pdb
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.AssemblyReference.cache
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.CoreCompileInputs.cache
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.exe
+E:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.pdb
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe.config
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.pdb
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.AssemblyReference.cache
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.CoreCompileInputs.cache
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.exe
+F:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.pdb
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe.config
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.exe
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\bin\Debug\exercicioDia12do03.pdb
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.AssemblyReference.cache
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.csproj.CoreCompileInputs.cache
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.exe
+D:\trabalhos\2° ano\viviani\Desenvolvimento De Sistemas\1ºbimestre\Programação orientada a objetos\atividades\EXERCICIO COFRE\exercicioDia12do03\obj\Debug\exercicioDia12do03.pdb
