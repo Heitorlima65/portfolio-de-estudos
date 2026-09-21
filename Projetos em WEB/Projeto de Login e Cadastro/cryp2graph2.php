@@ -33,7 +33,6 @@ function FazSenha($username,$password) {
 		}
 		// Prefix the hash with the salt so we can find it back later
 		$hash = $salt . $hash;
-		echo("Final: ".$hash."<br>");
 		return $hash;
 }
 

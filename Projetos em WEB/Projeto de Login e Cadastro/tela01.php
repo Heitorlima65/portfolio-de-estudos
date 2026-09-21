@@ -7,6 +7,11 @@
 		<style>
 			
 		</style>
+		<script>
+			function esqueci(){
+				window.location.href = "Esqueci01.php";
+			}
+		</script>
 	</head>
 	<body>
 		<form name="form1" action="tela02.php" method="POST">
@@ -16,6 +21,7 @@
 			Senha: <br>
 			<input type="password" id="senha" name="senha" value=""><br>
 			<br>
+			<input type="button" name="btnEsqueci" value="Esqueci a senha" onclick="esqueci()">
 			<input type="submit" name="Enviar" value="Enviar">
 		</form>
 	</body>

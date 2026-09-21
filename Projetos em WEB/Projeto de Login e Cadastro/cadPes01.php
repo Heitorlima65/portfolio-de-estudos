@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php
-        require("ses_start.php") 
+        require("ses_start.php");
     ?>
     <head>
         <meta charset="UTF-8">
@@ -59,6 +59,7 @@
             function adEndereco(){
                 const container = document.getElementById('enderecos');
                 const novoParagrafoEnderecosb = document.createElement('p');
+                novoParagrafoEnderecosb.id = 'p';
                 const novoInputEnderecosb = document.createElement('input');
                 novoInputEnderecosb.required = true;
                 novoInputEnderecosb.type = 'text';

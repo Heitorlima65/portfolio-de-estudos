@@ -19,6 +19,7 @@
 			$nomePessoa=$_SESSION['nomePessoa'];
 
 			echo("Nome: $nomePessoa<br>");
+			echo("Email: $emailPessoa<br>");
 			echo("CPF: $CPFPessoa<br>");
 		?>
 	</body>

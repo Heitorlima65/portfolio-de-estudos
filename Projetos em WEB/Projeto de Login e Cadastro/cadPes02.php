@@ -129,8 +129,7 @@
 				}
 			}
 			echo('Cadastros efetuados com sucesso!<br>');
-			echo('<a href="menu.php">Voltar ao menu</a><br>');
-			echo('<a href="sair.php">Sair</a>');
+			echo('<a href="menu.php">Voltar ao menu</a>');
 			
 
 		?>
