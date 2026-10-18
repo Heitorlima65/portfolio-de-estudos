@@ -49,12 +49,13 @@
 				echo("não foi possivel fechar consulta!");
 			}
 			if ( checasenha($senha,$senhaPessoa) ) {
-				$sqlReset = "update pessoa set errosLoginPessoa = 0 where CPFPessoa = ?";
+				$sqlReset = "update pessoa set errosLoginPessoa = ? where CPFPessoa = ?";
+				$errosLoginPessoa = 0;
 				$stmtReset = mysqli_prepare($BDconn, $sqlReset);
 				if(!$stmtReset){
 					echo("não foi possivel resetar!");
 				}
-				$paramReset=mysqli_stmt_bind_param($stmtReset, "s", $CPF);
+				$paramReset=mysqli_stmt_bind_param($stmtReset, "is",$errosLoginPessoa, $CPF);
 				if(!$paramReset){
 					echo("não foi possivel resetar!!");
 				}
@@ -75,14 +76,14 @@
 
 					// Senha expirou
 					ob_clean();
-
-					header("Location: trocaSenha01.php");
+					$_SESSION['tipoSenhaPessoa'] = 'S';
+					header("Location: mudSenha02.php");
 					exit();
 
 				}
 				if ($tipoSenhaPessoa == 'S') {
 					ob_clean();
-					header("Location: trocaSenha01.php");
+					header("Location: mudSenha02.php");
 					exit();
 				} else {
 					ob_clean();
@@ -95,9 +96,6 @@
 
 					// busca o email prioritário da pessoa
 					$sqlEmail = "select emailPessoa from pessoaEmail where CPFPessoa=? and prioritario='S'";
-					if(!$sqlEmail){
-						echo("não foi possivel fazer a busca no BD.");
-					}
 					$stmtEmail = mysqli_prepare($BDconn, $sqlEmail);
 					if(!$stmtEmail){
 						echo("não foi possivel fazer a busca no BD!");
@@ -127,13 +125,15 @@
 						$novaSenhaTexto = CriaAlgo(8);
 						$novaSenhaCripto = FazSenha($CPF, $novaSenhaTexto);
 
-						$sqlBloqueia = "update pessoa set senhaPessoa=?, tipoSenhaPessoa=?, errosLoginPessoa=0, validadeSenha=NOW() where CPFPessoa=?";
+						$sqlBloqueia = "update pessoa set senhaPessoa=?, tipoSenhaPessoa=?, errosLoginPessoa=?, validadeSenha=? where CPFPessoa=?";
 						$tipoSenhaS = "S";
+						$validadeSenha = date("Y-m-d H:i:s");
+						$errosLoginPessoa = 0;
 						$stmtBloqueia = mysqli_prepare($BDconn, $sqlBloqueia);
 						if(!$stmtBloqueia){
 							echo("não foi possivel realizar a acão!!");
 						}
-						$paramBloqueia=mysqli_stmt_bind_param($stmtBloqueia, "sss", $novaSenhaCripto, $tipoSenhaS, $CPF);
+						$paramBloqueia=mysqli_stmt_bind_param($stmtBloqueia, "ssiss", $novaSenhaCripto, $tipoSenhaS, $errosLoginPessoa, $validadeSenha, $CPF);
 						if(!$paramBloqueia){
 							echo("não foi possivel realizar a acão!!!");
 						}
@@ -177,9 +177,10 @@
 					echo("Número máximo de tentativas atingido. <br>Uma nova senha foi enviada para o seu email cadastrado.");
 
 				} else {
-					$sqlIncrementa = "update pessoa set errosLoginPessoa = errosLoginPessoa + 1 where CPFPessoa=?";
+					$sqlIncrementa = "update pessoa set errosLoginPessoa =? where CPFPessoa=?";
+					$errosLoginPessoa = $novoErros;
 					$stmtIncrementa = mysqli_prepare($BDconn, $sqlIncrementa);
-					mysqli_stmt_bind_param($stmtIncrementa, "s", $CPF);
+					mysqli_stmt_bind_param($stmtIncrementa, "is", $errosLoginPessoa, $CPF);
 					mysqli_stmt_execute($stmtIncrementa);
 
 					$restantes = 3 - $novoErros;

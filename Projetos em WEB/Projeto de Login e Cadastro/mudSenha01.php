@@ -1,6 +1,3 @@
-<?php
-    require("ses_start.php"); 
-?>
 <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -9,11 +6,10 @@
         <title></title>
     </head>
     <body>
-        <form action="trocaSenha02.php" name="formTroca" method="POST">
+        <form action="mudSenha02.php" name="senhatroca" method="POST">
 
-            <label for="CPFPessoa">Digite a senha nova:</label><br>
-            <input type="password" id="senhaPessoa" name="senhaPessoa" required><br>
-            <br>
+            <label for="CPFPessoa">Digite o CPF:</label><br>
+            <input type="text" id="CPFPessoa" name="CPFPessoa" required><br>
             <input type="submit" name="Enviar" class="enviar" value="Enviar">
         </form>
     </body>

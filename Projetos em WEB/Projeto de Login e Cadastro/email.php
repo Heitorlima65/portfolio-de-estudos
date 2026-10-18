@@ -17,8 +17,7 @@ function mandarEmail($nomeDestinatario,$To,$Subject,$Message) {
 	//$mail->SMTPSecure = 'tls';							// Enable TLS encryption, `ssl` also accepted
 	$mail->Port = 587;										// TCP port to connect to
 	$mail->Username = 'aluno2d.s';         	// SMTP username
-	$mail->Password = 'ehri qouv gfan nekn
-';				// SMTP password
+	$mail->Password = 'ehriqouvgfannekn';				// SMTP password    ehri qouv gfan nekn
 	$mail->From = 'aluno2d.s@gmail.com';
 	$mail->FromName = utf8_decode('Sistema do RM 25120!');
 	if (gettype($To)=="array") {

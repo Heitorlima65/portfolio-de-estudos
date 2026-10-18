@@ -3,5 +3,5 @@
 	unset($_SESSION['CPFPessoa']);
 	unset($_SESSION);
 	session_destroy();
-	locate("menu.php");
+	header("Location: menu.php");
 ?>
