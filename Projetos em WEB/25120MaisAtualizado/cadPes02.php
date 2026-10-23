@@ -29,6 +29,18 @@
 			}
 
 			require("BDconnecta.php");
+			$sqlCheck = "SELECT CPFPessoa FROM pessoa WHERE CPFPessoa = ?";
+			$stmtCheck = mysqli_prepare($BDconn, $sqlCheck);
+			if ($stmtCheck) {
+				mysqli_stmt_bind_param($stmtCheck, "s", $CPFPessoa);
+				mysqli_stmt_execute($stmtCheck);
+				mysqli_stmt_store_result($stmtCheck);
+				if (mysqli_stmt_num_rows($stmtCheck) > 0) {
+					die("Este CPF já está cadastrado no sistema! <br><br><a href='cadPes01.php'>Voltar</a>");
+				}
+				mysqli_stmt_close($stmtCheck);
+			}
+
 			$sql=" insert into pessoa (CPFPessoa,nomePessoa,senhaPessoa) values (?,?,?) ";
 			$stmt=mysqli_prepare($BDconn,$sql);
 			if (!$stmt) {
@@ -45,21 +57,27 @@
 				die("Não consegui executar cadastro no BD");
 			}
 			if (isset($_POST['emails'])) {
-				$vetEmails=$_POST['emails']; // 1 ou + emails no vetor
+				$vetEmails = $_POST['emails'];
 
-				$sqlEmails=" insert into pessoaEmail (CPFPessoa, emailPessoa) values (?,?) ";
-				$stmtEmails=mysqli_prepare($BDconn,$sqlEmails);
+				$sqlEmails = "INSERT INTO pessoaEmail (CPFPessoa, emailPessoa, prioritario) VALUES (?, ?, ?)";
+				$stmtEmails = mysqli_prepare($BDconn, $sqlEmails);
 				if (!$stmtEmails) {
 					die("Não consegui preparar o cadastro de emails no BD");
 				}
-				$umEmail="";
-				$paramEmail=mysqli_stmt_bind_param($stmtEmails, "ss", $CPFPessoa, $umEmail);
+
+				$umEmail = "";
+				$prioritario = "S";
+				$paramEmail = mysqli_stmt_bind_param($stmtEmails, "sss", $CPFPessoa, $umEmail, $prioritario);
 				if (!$paramEmail) {
 					die("Não consegui vincular parâmetro de emails no cadastro do BD");
 				}
+
 				foreach ($vetEmails as $key => $value) {
-					$umEmail=$value;
-					$execEmail=mysqli_stmt_execute($stmtEmails);
+					$umEmail = $value;
+					// O primeiro e-mail é prioritário ('S'), os restantes não ('N')
+					$prioritario = ($key === 0) ? 'S' : 'N';
+
+					$execEmail = mysqli_stmt_execute($stmtEmails);
 					if (!$execEmail) {
 						die("Não consegui executar cadastro de emails no BD");
 					}
