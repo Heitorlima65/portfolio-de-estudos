@@ -9,7 +9,7 @@
         <title></title>
     </head>
     <body>
-        <form action="mudSenha03.php" name="formTroca" method="POST">
+        <form action="mudSen02.php" name="formTroca" method="POST">
 
             <label for="CPFPessoa">Digite a senha nova:</label><br>
             <input type="password" id="senhaPessoa" name="senhaPessoa" required><br>

@@ -13,7 +13,7 @@
 		<br>
 		<a href="sair.php">SAIR</a><br>
 		<br>
-		<a href="mudSenha02.php">trocar senha</a><br>
+		<a href="mudSen01.php">trocar senha</a><br>
 		<br>
 		<a href="exclui01.php">Excluir conta</a><br>
 		<hr>

@@ -10,8 +10,8 @@
 	}
 	if (isset($_SESSION['tipoSenhaPessoa']) && $_SESSION['tipoSenhaPessoa'] == 'S') {
 		$paginaAtual = basename($_SERVER['PHP_SELF']);
-		if ($paginaAtual != 'mudSenha02.php' && $paginaAtual != 'mudSenha03.php' && $paginaAtual != 'sair.php') {
-			header("location: mudSenha02.php");
+		if ($paginaAtual != 'mudSen01.php' && $paginaAtual != 'mudSen02.php' && $paginaAtual != 'sair.php') {
+			header("location: mudSen01.php");
 			exit();
 		}
 	}

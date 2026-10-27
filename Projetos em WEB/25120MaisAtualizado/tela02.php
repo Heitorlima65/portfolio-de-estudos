@@ -77,13 +77,13 @@
 					// Senha expirou
 					ob_clean();
 					$_SESSION['tipoSenhaPessoa'] = 'S';
-					header("Location: mudSenha02.php");
+					header("Location: mudSen01.php");
 					exit();
 
 				}
 				if ($tipoSenhaPessoa == 'S') {
 					ob_clean();
-					header("Location: mudSenha02.php");
+					header("Location: mudSen01.php");
 					exit();
 				} else {
 					ob_clean();
